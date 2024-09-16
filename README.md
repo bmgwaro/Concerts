@@ -14,7 +14,8 @@ Using raw SQL queries within Python, we will interact with this database to perf
 
 ## Getting Started
 
-1.  Click on [this link](https://github.com/bmgwaro/Bots-challenge) in order to access the github repository containing this project.
+1.  Click on [this link](https://github.com/bmgwaro/Concerts) in order to access the github repository containing this project.
+
 2.  Click on fork to create copy of the repository.
 
 3.  Open your terminal and navigate into the directory where you would like to save the work using the `cd` command.
@@ -23,7 +24,7 @@ Using raw SQL queries within Python, we will interact with this database to perf
 
 4.  Copy and paste the following command in order to clone the repository into your local storage. Remember to replace `your_github_username` with your actual username.
 
-        git clone git@github.com:your_github_username/Bots-challenge.git
+        git clone git@github.com:your_github_username/Concerts.git
 
 5.  Navigate into the newly cloned folder and type in the `code .` command in order to open it on your text editor.
 
